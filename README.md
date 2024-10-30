@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Rushikesh . I'm a developer and programmer from Pune!!</h2>
+<h1 align="left">Hi 👋! My name is Rushikesh . I'm a developer and programmer from Pune!!</h1>
 
 ###
 
