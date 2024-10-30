@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Rushikesh . I'm a developer and programmer from PCCOE!!</h2>
+<h2 align="left">Hi 👋! My name is Rushikesh . I'm a developer and programmer from Pune!!</h2>
 
 ###
 
@@ -53,18 +53,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rushinakhale115/rushinakhale115/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/RUSHIKESH NAKHALE">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=RUSHIKESH%20NAKHALE&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
