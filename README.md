@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is Rushikesh . I'm a developer and programmer from Pune!!</h1>
+<h1 align="left">Hi 👋! My name is Rushikesh and I'm a developer and programmer from Pune!!</h1>
 
 ###
 
@@ -33,6 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
 </div>
 
 ###
@@ -53,4 +57,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rushinakhale115/rushinakhale115/output/snake.svg" alt="Snake animation" />
+
+###
