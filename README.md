@@ -59,8 +59,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/rushinakhale115/rushinakhale115/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/rushinakhale115/rushinakhale115/blob/output/github-snake.svg)
 ###
