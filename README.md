@@ -2,7 +2,7 @@
   <img height="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-###
+
 
 <h1 align="left">Hi 👋! My name is Rushikesh and I'm a developer and programmer from Pune!!</h1>
 
